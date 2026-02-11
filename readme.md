@@ -10,15 +10,11 @@ This repository serves as a product documentation hub, showcasing product thinki
 
 Foundational product definition for TutorOS, outlining the core marketplace and learning workflows between students and tutors.
 
----
-
 ### 2. Feature Spec — Knowledge Assistance
 
 🔗 [Doc Link](https://www.notion.so/Feature-TutorOS-knowledge-assistance-2fb05c0ca446802cafe8d1d7feed3407?source=copy_link)
 
 Product specification for an AI-powered textbook question-answering feature.
-
----
 
 ### 3. System Design — Knowledge Assistance
 
